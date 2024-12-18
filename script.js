@@ -1,5 +1,5 @@
-const owner = "your-username"; // Replace with your GitHub username
-const repo = "your-repo"; // Replace with your repository name   
+const owner = "yMisterCaptain007"; // Replace with your GitHub username
+const repo = "LeaderBoard"; // Replace with your repository name   
  
 const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contributors`;
  
